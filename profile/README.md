@@ -8,4 +8,9 @@ Try our free products:
 - [Fontane Pubbliche](https://play.google.com/store/apps/details?id=com.gregoriogalante.freewater): Android application to easily find public water fountains near you. 
 - [Castelli Storici](https://play.google.com/store/apps/details?id=com.gregoriogalante.freecastles): Android application to find information on historical castles near you.
 
+Discover our OS projects:
+
+- [Lato](https://github.com/GAMS-Software/lato): a Rails engine for developing web applications with user authentication and various front-end functionalities already developed via Bootstrap.
+- [Lato spaces](https://github.com/GAMS-Software/lato_spaces): A Rails Engine for managing multiple workspaces on a Lato web application.
+
 Contact us at [me@gregoriogalante.com](mailto:me@gregoriogalante.com) for information on other B2B products.
