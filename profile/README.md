@@ -11,6 +11,6 @@ Try our free products:
 Discover our OS projects:
 
 - [Lato](https://github.com/GAMS-Software/lato): a Rails engine for developing web applications with user authentication and various front-end functionalities already developed via Bootstrap.
-- [Lato spaces](https://github.com/GAMS-Software/lato_spaces): A Rails Engine for managing multiple workspaces on a Lato web application.
+- [Lato spaces](https://github.com/GAMS-Software/lato_spaces): a Rails Engine for managing multiple workspaces on a Lato web application.
 
 Contact us at [me@gregoriogalante.com](mailto:me@gregoriogalante.com) for information on other B2B products.
